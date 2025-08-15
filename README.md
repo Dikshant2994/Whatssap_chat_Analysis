@@ -77,6 +77,6 @@ Challenges and Learnings
 conversations enriched the learning experience. 
 
  Conclusion 
-• This project transforms chat data into visual insights, providing businesses 
+This project transforms chat data into visual insights, providing businesses 
 with a deeper understanding of communication trends for informed 
 decision-making and improved engagement strategies.
